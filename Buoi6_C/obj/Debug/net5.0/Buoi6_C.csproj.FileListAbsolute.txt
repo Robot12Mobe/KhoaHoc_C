@@ -1,0 +1,16 @@
+F:\Other\C#\KhoahocC\KhoaHoc_C-main\Buoi6_C\bin\Debug\net5.0\Buoi6_C.exe
+F:\Other\C#\KhoahocC\KhoaHoc_C-main\Buoi6_C\bin\Debug\net5.0\Buoi6_C.deps.json
+F:\Other\C#\KhoahocC\KhoaHoc_C-main\Buoi6_C\bin\Debug\net5.0\Buoi6_C.runtimeconfig.json
+F:\Other\C#\KhoahocC\KhoaHoc_C-main\Buoi6_C\bin\Debug\net5.0\Buoi6_C.runtimeconfig.dev.json
+F:\Other\C#\KhoahocC\KhoaHoc_C-main\Buoi6_C\bin\Debug\net5.0\Buoi6_C.dll
+F:\Other\C#\KhoahocC\KhoaHoc_C-main\Buoi6_C\bin\Debug\net5.0\ref\Buoi6_C.dll
+F:\Other\C#\KhoahocC\KhoaHoc_C-main\Buoi6_C\bin\Debug\net5.0\Buoi6_C.pdb
+F:\Other\C#\KhoahocC\KhoaHoc_C-main\Buoi6_C\obj\Debug\net5.0\Buoi6_C.csproj.AssemblyReference.cache
+F:\Other\C#\KhoahocC\KhoaHoc_C-main\Buoi6_C\obj\Debug\net5.0\Buoi6_C.GeneratedMSBuildEditorConfig.editorconfig
+F:\Other\C#\KhoahocC\KhoaHoc_C-main\Buoi6_C\obj\Debug\net5.0\Buoi6_C.AssemblyInfoInputs.cache
+F:\Other\C#\KhoahocC\KhoaHoc_C-main\Buoi6_C\obj\Debug\net5.0\Buoi6_C.AssemblyInfo.cs
+F:\Other\C#\KhoahocC\KhoaHoc_C-main\Buoi6_C\obj\Debug\net5.0\Buoi6_C.csproj.CoreCompileInputs.cache
+F:\Other\C#\KhoahocC\KhoaHoc_C-main\Buoi6_C\obj\Debug\net5.0\Buoi6_C.dll
+F:\Other\C#\KhoahocC\KhoaHoc_C-main\Buoi6_C\obj\Debug\net5.0\ref\Buoi6_C.dll
+F:\Other\C#\KhoahocC\KhoaHoc_C-main\Buoi6_C\obj\Debug\net5.0\Buoi6_C.pdb
+F:\Other\C#\KhoahocC\KhoaHoc_C-main\Buoi6_C\obj\Debug\net5.0\Buoi6_C.genruntimeconfig.cache

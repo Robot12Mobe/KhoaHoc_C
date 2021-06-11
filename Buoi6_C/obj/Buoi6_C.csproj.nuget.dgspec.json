@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "D:\\T5_21_C#\\Code Thầy\\KhoaHoc_C\\Buoi6_C\\Buoi6_C.csproj": {}
+    "F:\\Other\\C#\\KhoahocC\\KhoaHoc_C-main\\Buoi6_C\\Buoi6_C.csproj": {}
   },
   "projects": {
-    "D:\\T5_21_C#\\Code Thầy\\KhoaHoc_C\\Buoi6_C\\Buoi6_C.csproj": {
+    "F:\\Other\\C#\\KhoahocC\\KhoaHoc_C-main\\Buoi6_C\\Buoi6_C.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\T5_21_C#\\Code Thầy\\KhoaHoc_C\\Buoi6_C\\Buoi6_C.csproj",
+        "projectUniqueName": "F:\\Other\\C#\\KhoahocC\\KhoaHoc_C-main\\Buoi6_C\\Buoi6_C.csproj",
         "projectName": "Buoi6_C",
-        "projectPath": "D:\\T5_21_C#\\Code Thầy\\KhoaHoc_C\\Buoi6_C\\Buoi6_C.csproj",
-        "packagesPath": "C:\\Users\\tuanh\\.nuget\\packages\\",
-        "outputPath": "D:\\T5_21_C#\\Code Thầy\\KhoaHoc_C\\Buoi6_C\\obj\\",
+        "projectPath": "F:\\Other\\C#\\KhoahocC\\KhoaHoc_C-main\\Buoi6_C\\Buoi6_C.csproj",
+        "packagesPath": "C:\\Users\\anhbi\\.nuget\\packages\\",
+        "outputPath": "F:\\Other\\C#\\KhoahocC\\KhoaHoc_C-main\\Buoi6_C\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tuanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\anhbi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -37,8 +37,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",

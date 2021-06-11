@@ -11,3 +11,16 @@ D:\13.DaoTaoLapTrinh-SPEC\C#\T5-21\KhoaHoc_C\Buoi3_C\obj\Debug\netcoreapp3.1\Buo
 D:\13.DaoTaoLapTrinh-SPEC\C#\T5-21\KhoaHoc_C\Buoi3_C\obj\Debug\netcoreapp3.1\Buoi3_C.dll
 D:\13.DaoTaoLapTrinh-SPEC\C#\T5-21\KhoaHoc_C\Buoi3_C\obj\Debug\netcoreapp3.1\Buoi3_C.pdb
 D:\13.DaoTaoLapTrinh-SPEC\C#\T5-21\KhoaHoc_C\Buoi3_C\obj\Debug\netcoreapp3.1\Buoi3_C.genruntimeconfig.cache
+C:\Users\anhbi\Downloads\KhoaHoc_C-main\Buoi3_C\obj\Debug\netcoreapp3.1\Buoi3_C.csproj.AssemblyReference.cache
+C:\Users\anhbi\Downloads\KhoaHoc_C-main\Buoi3_C\obj\Debug\netcoreapp3.1\Buoi3_C.AssemblyInfoInputs.cache
+C:\Users\anhbi\Downloads\KhoaHoc_C-main\Buoi3_C\obj\Debug\netcoreapp3.1\Buoi3_C.AssemblyInfo.cs
+C:\Users\anhbi\Downloads\KhoaHoc_C-main\Buoi3_C\obj\Debug\netcoreapp3.1\Buoi3_C.csproj.CoreCompileInputs.cache
+C:\Users\anhbi\Downloads\KhoaHoc_C-main\Buoi3_C\obj\Debug\netcoreapp3.1\Buoi3_C.dll
+C:\Users\anhbi\Downloads\KhoaHoc_C-main\Buoi3_C\obj\Debug\netcoreapp3.1\Buoi3_C.pdb
+C:\Users\anhbi\Downloads\KhoaHoc_C-main\Buoi3_C\bin\Debug\netcoreapp3.1\Buoi3_C.exe
+C:\Users\anhbi\Downloads\KhoaHoc_C-main\Buoi3_C\bin\Debug\netcoreapp3.1\Buoi3_C.deps.json
+C:\Users\anhbi\Downloads\KhoaHoc_C-main\Buoi3_C\bin\Debug\netcoreapp3.1\Buoi3_C.runtimeconfig.json
+C:\Users\anhbi\Downloads\KhoaHoc_C-main\Buoi3_C\bin\Debug\netcoreapp3.1\Buoi3_C.runtimeconfig.dev.json
+C:\Users\anhbi\Downloads\KhoaHoc_C-main\Buoi3_C\bin\Debug\netcoreapp3.1\Buoi3_C.dll
+C:\Users\anhbi\Downloads\KhoaHoc_C-main\Buoi3_C\bin\Debug\netcoreapp3.1\Buoi3_C.pdb
+C:\Users\anhbi\Downloads\KhoaHoc_C-main\Buoi3_C\obj\Debug\netcoreapp3.1\Buoi3_C.genruntimeconfig.cache
