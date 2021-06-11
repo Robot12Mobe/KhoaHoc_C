@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\KhoaHoc_C\\KhoaHoc_C\\Buoi2_C\\KhoaHoc_C1.sln\\Buoi3_C\\Buoi3_C.csproj": {}
+    "D:\\C#\\KhoaHoc_C\\KhoaHoc_C\\Buoi2_C\\KhoaHoc_C1.sln\\Buoi7_C\\Buoi7_C.csproj": {}
   },
   "projects": {
-    "D:\\C#\\KhoaHoc_C\\KhoaHoc_C\\Buoi2_C\\KhoaHoc_C1.sln\\Buoi3_C\\Buoi3_C.csproj": {
+    "D:\\C#\\KhoaHoc_C\\KhoaHoc_C\\Buoi2_C\\KhoaHoc_C1.sln\\Buoi7_C\\Buoi7_C.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\KhoaHoc_C\\KhoaHoc_C\\Buoi2_C\\KhoaHoc_C1.sln\\Buoi3_C\\Buoi3_C.csproj",
-        "projectName": "Buoi3_C",
-        "projectPath": "D:\\C#\\KhoaHoc_C\\KhoaHoc_C\\Buoi2_C\\KhoaHoc_C1.sln\\Buoi3_C\\Buoi3_C.csproj",
+        "projectUniqueName": "D:\\C#\\KhoaHoc_C\\KhoaHoc_C\\Buoi2_C\\KhoaHoc_C1.sln\\Buoi7_C\\Buoi7_C.csproj",
+        "projectName": "Buoi7_C",
+        "projectPath": "D:\\C#\\KhoaHoc_C\\KhoaHoc_C\\Buoi2_C\\KhoaHoc_C1.sln\\Buoi7_C\\Buoi7_C.csproj",
         "packagesPath": "C:\\Users\\Tien\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\KhoaHoc_C\\KhoaHoc_C\\Buoi2_C\\KhoaHoc_C1.sln\\Buoi3_C\\obj\\",
+        "outputPath": "D:\\C#\\KhoaHoc_C\\KhoaHoc_C\\Buoi2_C\\KhoaHoc_C1.sln\\Buoi7_C\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tien\\AppData\\Roaming\\NuGet\\NuGet.Config",
